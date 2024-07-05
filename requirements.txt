@@ -3,6 +3,7 @@ Tgcrypto
 ffmpeg-python
 rarfile
 ffmpeg
+ffprobe
 requests
 heroku3
 aiohttp
