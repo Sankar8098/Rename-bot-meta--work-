@@ -6,10 +6,10 @@ import os
 id_pattern = re.compile(r'^.\d+$')
 
 
-API_ID = int(os.environ.get("API_ID", "10811400"))
-API_HASH = os.environ.get("API_HASH", "191bf5ae7a6c39771e7b13cf4ffd1279")
+API_ID = int(os.environ.get("API_ID", "23990433"))
+API_HASH = os.environ.get("API_HASH", "e6c4b6ee1933711bc4da9d7d17e1eb20")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7090403697:AAGjSKZOl_kPksvKJNaKbiBl5XDI0tt5QpY")
-ADMIN = int(os.environ.get("ADMIN", '6469754522')) 
+ADMIN = int(os.environ.get("ADMIN", '5821871362')) 
 FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "Sunrises24BotUpdates")
 FSUB_GROUP = os.environ.get("FSUB_GROUP", "Sunrises24BotSupport")
 CAPTION = os.environ.get("CAPTION", "")
