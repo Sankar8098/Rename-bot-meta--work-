@@ -10,8 +10,8 @@ API_ID = int(os.environ.get("API_ID", "23990433"))
 API_HASH = os.environ.get("API_HASH", "e6c4b6ee1933711bc4da9d7d17e1eb20")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5992501587:AAFyt9Fixl8cMymWvObeiBBZZVmO4hwkOgs")
 ADMIN = int(os.environ.get("ADMIN", '5821871362')) 
-FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "Sunrises24BotUpdates")
-FSUB_GROUP = os.environ.get("FSUB_GROUP", "Sunrises24BotSupport")
+FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "VillageTv")
+FSUB_GROUP = os.environ.get("FSUB_GROUP", "sankrae")
 CAPTION = os.environ.get("CAPTION", "")
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
 DOWNLOAD_LOCATION = "./DOWNLOADS"
